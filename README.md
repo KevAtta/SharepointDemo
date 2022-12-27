@@ -1,1 +1,1 @@
-# Very-simple-sharepoint-demo
+Very simple app in sharepoint.
